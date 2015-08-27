@@ -15,6 +15,8 @@ Maintained by [0xgi](https://github.com/0xgi) with contributions from the applic
 * [OpenCV-code](http://opencv-code.com/)
 * [Sonots](http://note.sonots.com/SciSoftware/haartraining.html)
 * [Ledduy](http://ledduy.blogspot.com/search/label/OpenCV)
+* [IEEV](http://www.ieev.org/search/label/D%E1%BB%AF%20Li%E1%BB%87u%20Test)
+* [Computer Graphics](http://fit.hcmup.edu.vn/~longab/GiaoTrinh/ComputerGraphics/)
 
 ## Tools
 
@@ -37,11 +39,14 @@ Maintained by [0xgi](https://github.com/0xgi) with contributions from the applic
 * [phuonglh](http://mim.hus.vnu.edu.vn/phuonglh/softwares)
 * [Engadget](http://www.engadget.com/2014/10/07/interactive-holograms-leia-display-system/?utm_medium=cpc&utm_source=gravity&ncid=gravityppc)
 * [Virus blog](http://zeroq.kulando.de/)
+* [Machine Techinology](http://www.procul.org/blog/)
 
 ## Malware analytics
 
 * [Insinuator](http://www.insinuator.net/2013/07/reverse-engineering-tools/)
 * [Kienmanowar](http://kienmanowar.wordpress.com/)
+* [ltops9](https://ltops9.wordpress.com/)
+* [Zynamics](http://blog.zynamics.com/2010/06/09/analyzing-the-currently-exploited-0-day-for-adobe-reader-and-adobe-flash/)
 
 ## Security
 
@@ -61,8 +66,11 @@ Maintained by [0xgi](https://github.com/0xgi) with contributions from the applic
 
 ## Developer
 
+* [Radio Control](http://tongquanvienthong.blogspot.com/)
 * [Python article](http://www.familug.org/search/label/Python?updated-max=2013-02-07T00:40:00%2B07:00&max-results=20&start=40&by-date=false)
+* [Winsock](http://diendan.congdongcviet.com/threads/t7362::lap-trinh-mang-thu-vien-winsock-tren-visual-cpp.cpp)
 * [Python](https://quangchien.wordpress.com/2012/03/14/sach-thinkpython/)
+* [Python book](http://www.openbookproject.net/thinkcs/python/english2e/)
 * [msdn C9](https://channel9.msdn.com/Series/C9-Lectures-Stephan-T-Lavavej-Standard-Template-Library-STL-/C9-Lectures-Introduction-to-STL-with-Stephan-T-Lavavej)
 * [Bitoftech](http://bitoftech.net/)
 * [Arduino](https://uantti.wordpress.com/)
@@ -75,6 +83,7 @@ Maintained by [0xgi](https://github.com/0xgi) with contributions from the applic
 * [Archive msdn](http://archive.msdn.microsoft.com/)
 * [Seroter](https://seroter.wordpress.com/2009/12/23/populating-word-2007-templates-through-open-xml/)
 * [Web Stack of Love](http://webstackoflove.com/)
+* [.NET OPP Video](https://www.youtube.com/watch?v=k0oPMYSEyzY&list=UUKSwnvo2-Z0OH2t07FmnR8Q)
 * [Zachhunter](http://www.zachhunter.com/)
 * [FreeVBcode](http://www.freevbcode.com/asp-html-xml)
 * [Leniel](http://www.leniel.net/)
@@ -82,10 +91,19 @@ Maintained by [0xgi](https://github.com/0xgi) with contributions from the applic
 * [Coderanch](http://www.coderanch.com/forums)
 * [Code4life](http://www.code4life.vn/)
 * [Techbitar](http://www.techbitar.com/)
+* [Documentation C/C++](https://drive.google.com/folderview?id=0B0GaRyvEX5Q3WjJnTEkydk10M0k&usp=sharing)
+* [OpenGL](http://www.glprogramming.com/red/chapter01.html)
+* [Data Structures and Algorithms](http://coltech.vnu.edu.vn/~chauttm/dsa2011w/)
+* [Data Structures and Algorithms 2](http://coltech.vnu.edu.vn/~hieulq/ctdlgt/)
+* [The Postgres Database and Linux](http://www.yolinux.com/TUTORIALS/LinuxTutorialPostgreSQL.html)
+* [tdt.edu.vn](http://it.tdt.edu.vn/~pnnam/BG_503023/BG_503023/)
+* [Sumary content](http://diendan.congdongcviet.com/archive/index.php/f-56.html)
+* [Document IT](http://chiasetailieucntt.blogspot.com/2014/08/toan-bo-tai-lieu-tvt-5-nam-hoc.html)
 
 ## Web development
 
 * [Typeform](http://www.typeform.com/)
+* [SHA512](http://danweb.vn/lap-trinh-website/asp-asp-net/220-thuat-toan-sha512.html)
 
 ## Capture the flag
 
@@ -93,6 +111,7 @@ Maintained by [0xgi](https://github.com/0xgi) with contributions from the applic
 * [Securityoverride](http://securityoverride.org/news.php)
 * [Hackthis](http://hackthis.co.uk/)
 * [Pwnable](http://pwnable.kr/)
+* [Namnt writeup](http://namntvn.blogspot.com/)
 
 ## Other
 
@@ -133,6 +152,6 @@ Maintained by [0xgi](https://github.com/0xgi) with contributions from the applic
 * [Socket article](http://www.adp-gmbh.ch/win/misc/sockets.html)
 * [Hintdesk](http://hintdesk.com/c-low-level-hook-keyboard-to-write-a-simple-keylogger/)
 * [Java2s](http://java2s.com/)
-
+* [lttqstudy](https://lttqstudy.wordpress.com/)
 
 
